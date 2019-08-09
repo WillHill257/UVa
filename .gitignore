@@ -3,6 +3,7 @@
 !*/
 
 *.txt
+dir.py
 
 .idea
 .vscode
